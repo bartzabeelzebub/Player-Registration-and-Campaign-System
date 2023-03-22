@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{CB9DFE96-575D-4854-B543-FFC5B2C9319B}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GameProject/GamerManager.cs">
+    <Files>
+      <File FileName="GameProject/Program.cs" Line="10" Column="29" />
+      <File FileName="GameProject/Gamer.cs" Line="7" Column="17" />
+      <File FileName="GameProject/IGamerService.cs" Line="8" Column="28" />
+      <File FileName="GameProject/GamerManager.cs" Line="36" Column="2" />
+      <File FileName="GameProject/IUserValidationService.cs" Line="10" Column="1" />
+      <File FileName="GameProject/UserValidationManager.cs" Line="9" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GameProject" expanded="True" selected="True">
+            <Node name="GameProject" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GameProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
